@@ -6,7 +6,7 @@
 
 using namespace std;
 
-ofstream zapis("100_50_macierz.txt");
+ofstream zapis("100_50_wynik.txt");
 
 //**************************************************************************
 // Lista jednokierunkowa (do list sasiedztwa)							   *
